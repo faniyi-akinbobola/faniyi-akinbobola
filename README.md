@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+ 🌱 I’m currently learning python 100Daysofcode 
+ 🌱 I’m currently learning Javascript
 <!--
 **faniyi-akinbobola/faniyi-akinbobola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
