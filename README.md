@@ -1,44 +1,66 @@
 # 👋 Hi, I'm Faniyi Akinbobola
 
-🚀 **Backend Engineer | Node.js | NestJS | TypeScript | MySQL | PostgreSQL**
+**Backend Engineer | Node.js | NestJS | TypeScript | Microservices | Databases**
 
-Welcome to my GitHub! I’m passionate about designing and building robust backend systems, APIs, and microservices that scale seamlessly.
-
----
-
-### 🧠 About Me
-- 💻 I specialize in **backend development** using **NestJS** and **Node.js**.
-- 🧩 Experienced with **TypeORM**, **PostgreSQL**, **MySQL**, and **RESTful API design**.
-- ⚙️ Currently working on **subscription and billing services** and **microservices** architecture.
-- 🧱 Building and maintaining several **NestJS projects**.
-- 🧼 I enjoy solving complex logic problems and writing clean, maintainable code.
+Welcome to my GitHub! I design and build **scalable backend systems**, **clean APIs**, and **production-ready microservices**, with a strong focus on correctness, performance, and maintainability.
 
 ---
 
-### 🛠️ Tech Stack
+## 🧠 About Me
 
-**Languages:**  
+* 💻 Backend engineer specializing in **NestJS**, **Node.js**, and **TypeScript**
+🧩 Strong experience in RESTful API design, microservice architectures, API gateways, and modular monoliths, with an emphasis on scalability and clean separation of concerns.
+* 🧱 Hands-on with **Redis**, **Docker**, and distributed system patterns (caching, idempotency, circuit breakers)
+* 🧼 I enjoy solving complex logic problems and writing **clean, testable, maintainable code**
+* 📊 Background in **machine learning & data analysis**, applied to real-world healthcare problems
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
 `TypeScript` `JavaScript` `Python`
 
-**Frameworks & Tools:**  
-`NestJS` `Express` `Node.js` `TypeORM` `PostgreSQL` `MySQL` `Git` `Docker`
+**Backend & Frameworks**
 
-**Other Interests:**  
-`API Security` `System Design` `Data Analysis`
+`NestJS` `Node.js` `Express`
+
+**Databases & Messaging**
+
+`PostgreSQL` `MySQL` `MongoDB` `Redis` `TypeORM`
+
+**DevOps & Tooling**
+
+`Docker` `Git` `REST APIs`
+
+**Concepts & Architecture**
+
+`Microservices` `API Gateway` `Idempotency` `Caching` `System Design`
 
 ---
 
-### 📈 Project
+## 📈 Featured Projects
 
-- 🚗 **CarSales API** — a full-featured REST API built with NestJS for managing car listings and users.
+* 🚗 **CarSales API**
+  Full-featured **NestJS REST API** for managing car listings and users, built with clean architecture and database integrations.
+
+* 💳 **Subscription & Billing Service**
+  A **NestJS microservice** responsible for managing subscription plans, user subscriptions, and payment workflows, with clear separation of business logic and persistence layers.
+
+* 🧩 **Microservices E-commerce Backend**
+  Distributed backend system composed of **API Gateway**, **Authentication**, **Cart**, **Order**, **Product**, **Payment**, **Inventory**, and **Notification** services. Designed for scalable service-to-service communication and clean domain separation.
+
+* 📚 **Library Management System API**
+  A comprehensive **REST API** for a library management system featuring **user authentication**, **book management operations**, and **admin controls**.
 
 ---
 
-### 📫 Connect With Me
+## 📫 Connect With Me
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/faniyiakinbobola)
-- 🐙 [GitHub](https://github.com/faniyiakinbobola)
-- ✉️ Email: **faniyiakinbobola@gmail.com**
+* 🌐 LinkedIn: [https://www.linkedin.com/in/faniyiakinbobola](https://www.linkedin.com/in/faniyiakinbobola)
+* 🐙 GitHub: [https://github.com/faniyi-akinbobola](https://github.com/faniyi-akinbobola)
+* ✉️ Email: **[faniyiakinbobola@gmail.com](mailto:faniyiakinbobola@gmail.com)**
 
 ---
 
