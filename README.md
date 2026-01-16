@@ -1,67 +1,91 @@
-# 👋 Hi, I'm Faniyi Akinbobola
+👋 Hi, I'm Faniyi Akinbobola
 
-**Backend Engineer | Node.js | NestJS | TypeScript | Microservices | Databases**
+Backend Engineer | Node.js | NestJS | TypeScript | Microservices | Distributed Systems
 
-Welcome to my GitHub! I design and build **scalable backend systems**, **clean APIs**, and **production-ready microservices**, with a strong focus on correctness, performance, and maintainability.
+Welcome to my GitHub 👋
+I design and build scalable backend systems, well-structured APIs, and production-ready microservices, with a strong focus on correctness, performance, reliability, and maintainability.
 
----
+🧠 About Me
 
-## 🧠 About Me
+💻 Backend engineer specializing in Node.js, NestJS, and TypeScript
 
-* 💻 Backend engineer specializing in **NestJS**, **Node.js**, and **TypeScript**
-🧩 Strong experience in RESTful API design, microservice architectures, API gateways, and modular monoliths, with an emphasis on scalability and clean separation of concerns.
-* 🧱 Hands-on with **Redis**, **Docker**, and distributed system patterns (caching, idempotency, circuit breakers)
-* 🧼 I enjoy solving complex logic problems and writing **clean, testable, maintainable code**
-* 📊 Background in **machine learning & data analysis**, applied to real-world healthcare problems
+🧩 Strong experience designing RESTful APIs, microservice architectures, API gateways, and modular systems, with emphasis on scalability and clear separation of concerns
 
----
+🧱 Hands-on experience with Redis, Docker, and distributed system patterns such as caching, idempotency, and fault-tolerant service communication
 
-## 🛠️ Tech Stack
+🧼 Passionate about writing clean, testable, and maintainable code and simplifying complex business logic
 
-**Languages**
+📊 Background in machine learning and data analysis, applied to real-world healthcare and data-driven problems
 
-`TypeScript` `JavaScript` `Python`
+🛠️ Tech Stack
+Languages
 
-**Backend & Frameworks**
+TypeScript · JavaScript · Python
 
-`NestJS` `Node.js` `Express`
+Backend & Frameworks
 
-**Databases & Messaging**
+NestJS · Node.js · Express
 
-`PostgreSQL` `MySQL` `MongoDB` `Redis` `TypeORM`
+Databases & Data Stores
 
-**DevOps & Tooling**
+PostgreSQL · MySQL · MongoDB · Redis · TypeORM
 
-`Docker` `Git` `REST APIs`
+DevOps & Tooling
 
-**Concepts & Architecture**
+Docker · Git · REST APIs
 
-`Microservices` `API Gateway` `Idempotency` `Caching` `System Design`
+Architecture & Concepts
 
----
+Microservices · API Gateway · Caching · Idempotency · System Design
 
-## 📈 Featured Projects
+📈 Featured Projects
+🧩 Microservices E-commerce Backend
 
-* 🚗 **CarSales API**
-  Full-featured **NestJS REST API** for managing car listings and users, built with clean architecture and database integrations.
+A distributed backend system built with NestJS microservices, consisting of:
+API Gateway, Authentication, Cart, Order, Product, Inventory, Payment, and Notification services.
 
-* 💳 **Subscription & Billing Service**
-  A **NestJS microservice** responsible for managing subscription plans, user subscriptions, and payment workflows, with clear separation of business logic and persistence layers.
+Implemented idempotent APIs, Redis-based caching, and service-to-service communication
 
-* 🧩 **Microservices E-commerce Backend**
-  Distributed backend system composed of **API Gateway**, **Authentication**, **Cart**, **Order**, **Product**, **Payment**, **Inventory**, and **Notification** services. Designed for scalable service-to-service communication and clean domain separation.
+Designed for scalability, resilience, and clean domain separation
 
-* 📚 **Library Management System API**
-  A comprehensive **REST API** for a library management system featuring **user authentication**, **book management operations**, and **admin controls**.
+Includes role-based access, cart lifecycle management, inventory reservation, and order workflows
 
----
+💳 Subscription & Billing Service
 
-## 📫 Connect With Me
+A standalone NestJS microservice responsible for:
 
-* 🌐 LinkedIn: [https://www.linkedin.com/in/faniyiakinbobola](https://www.linkedin.com/in/faniyiakinbobola)
-* 🐙 GitHub: [https://github.com/faniyi-akinbobola](https://github.com/faniyi-akinbobola)
-* ✉️ Email: **[faniyiakinbobola@gmail.com](mailto:faniyiakinbobola@gmail.com)**
+Managing subscription plans and user subscriptions
 
----
+Handling billing workflows and lifecycle events
 
-⭐️ *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+Clean separation between business logic, persistence, and transport layers
+
+🚗 CarSales API
+
+A full-featured NestJS REST API for managing car listings and users.
+
+Built with clean architecture principles
+
+Integrated database persistence and validation layers
+
+Focused on maintainable domain modeling and API correctness
+
+📚 Library Management System API
+
+A comprehensive REST API featuring:
+
+User authentication and authorization
+
+Book and inventory management
+
+Admin-level controls and role separation
+
+📫 Connect With Me
+
+🌐 LinkedIn: https://www.linkedin.com/in/faniyiakinbobola
+
+🐙 GitHub: https://github.com/faniyi-akinbobola
+
+✉️ Email: faniyiakinbobola@gmail.com
+
+⭐️ “Code is like humor. When you have to explain it, it’s bad.” – Cory House
