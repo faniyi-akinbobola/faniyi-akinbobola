@@ -1,84 +1,57 @@
+:
 👋 Hi, I'm Faniyi Akinbobola
 
-Backend Engineer | Node.js | NestJS | TypeScript | Microservices | Distributed Systems
+Backend Engineer | Node.js | NestJS | TypeScript | Microservices | Databases
 
-Welcome to my GitHub 👋
-I design and build scalable backend systems, well-structured APIs, and production-ready microservices, with a strong focus on correctness, performance, reliability, and maintainability.
+Welcome to my GitHub! I design and build scalable backend systems, clean APIs, and production-ready microservices, with a strong focus on correctness, performance, and maintainability.
 
 🧠 About Me
 
-💻 Backend engineer specializing in Node.js, NestJS, and TypeScript
+💻 Backend engineer specializing in NestJS, Node.js, and TypeScript
 
-🧩 Strong experience designing RESTful APIs, microservice architectures, API gateways, and modular systems, with emphasis on scalability and clear separation of concerns
+🧩 Strong experience in RESTful API design, microservice architectures, API gateways, and modular systems, with an emphasis on scalability and clean separation of concerns
 
-🧱 Hands-on experience with Redis, Docker, and distributed system patterns such as caching, idempotency, and fault-tolerant service communication
+🧱 Hands-on with Redis, Docker, and distributed system patterns such as caching, idempotency, and fault-tolerant service communication
 
-🧼 Passionate about writing clean, testable, and maintainable code and simplifying complex business logic
+🧼 I enjoy solving complex logic problems and writing clean, testable, maintainable code
 
 📊 Background in machine learning and data analysis, applied to real-world healthcare and data-driven problems
 
 🛠️ Tech Stack
+
 Languages
 
-TypeScript · JavaScript · Python
+TypeScript JavaScript Python
 
 Backend & Frameworks
 
-NestJS · Node.js · Express
+NestJS Node.js Express
 
-Databases & Data Stores
+Databases & Messaging
 
-PostgreSQL · MySQL · MongoDB · Redis · TypeORM
+PostgreSQL MySQL MongoDB Redis TypeORM
 
 DevOps & Tooling
 
-Docker · Git · REST APIs
+Docker Git REST APIs
 
-Architecture & Concepts
+Concepts & Architecture
 
-Microservices · API Gateway · Caching · Idempotency · System Design
+Microservices API Gateway Idempotency Caching System Design
 
 📈 Featured Projects
-🧩 Microservices E-commerce Backend
-
-A distributed backend system built with NestJS microservices, consisting of:
-API Gateway, Authentication, Cart, Order, Product, Inventory, Payment, and Notification services.
-
-Implemented idempotent APIs, Redis-based caching, and service-to-service communication
-
-Designed for scalability, resilience, and clean domain separation
-
-Includes role-based access, cart lifecycle management, inventory reservation, and order workflows
-
-💳 Subscription & Billing Service
-
-A standalone NestJS microservice responsible for:
-
-Managing subscription plans and user subscriptions
-
-Handling billing workflows and lifecycle events
-
-Clean separation between business logic, persistence, and transport layers
 
 🚗 CarSales API
+Full-featured NestJS REST API for managing car listings and users, built with clean architecture principles and robust database integrations.
 
-A full-featured NestJS REST API for managing car listings and users.
+💳 Subscription & Billing Service
+A NestJS microservice responsible for managing subscription plans, user subscriptions, and billing workflows, with clear separation of business logic and persistence layers.
 
-Built with clean architecture principles
-
-Integrated database persistence and validation layers
-
-Focused on maintainable domain modeling and API correctness
+🧩 Microservices E-commerce Backend
+Distributed backend system composed of API Gateway, Authentication, Cart, Order, Product, Payment, Inventory, and Notification services. Designed for scalable service-to-service communication, idempotent APIs, and clean domain separation.
 
 📚 Library Management System API
-
-A comprehensive REST API featuring:
-
-User authentication and authorization
-
-Book and inventory management
-
-Admin-level controls and role separation
+A comprehensive REST API featuring user authentication, book management operations, and admin-level controls.
 
 📫 Connect With Me
 
