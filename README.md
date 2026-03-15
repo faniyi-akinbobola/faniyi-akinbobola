@@ -58,29 +58,23 @@ I design and build **scalable backend systems**, **clean APIs**, and **productio
 
 ## 📌 Featured Projects
 
-### 🔗 [Microservices E-commerce Backend](https://github.com/faniyi-akinbobola/microservices-ecommerce)
+### 🔗 [Microservices E-commerce Backend](https://github.com/faniyi-akinbobola/E-commerce-microservices)
 Distributed system with 7+ microservices communicating via message queues  
 `NestJS` `PostgreSQL` `Redis` `Docker` `RabbitMQ` `Microservices`
 
-### 💳 [Subscription & Billing Service](https://github.com/faniyi-akinbobola/subscription-billing)
+### 💳 [Subscription & Billing Service](https://github.com/faniyi-akinbobola/Subscription-and-Billing-Service)
 Automated recurring billing with prorated plan changes  
 `NestJS` `TypeORM` `PostgreSQL` `Stripe` `Webhooks`
 
-### 🚗 [CarSales API](https://github.com/faniyi-akinbobola/carsales-api)
+### 🚗 [CarSales API](https://github.com/faniyi-akinbobola/Car-Dealer-API)
 REST API for car dealerships with advanced filtering  
 `NestJS` `TypeScript` `PostgreSQL` `JWT` `TypeORM`
 
-### 📚 [Library Management System](https://github.com/faniyi-akinbobola/library-management)
-Book borrowing workflow with inventory tracking  
-`NestJS` `MongoDB` `Mongoose` `JWT`
-
-### 🎯 [Distributed Job Queue](https://github.com/faniyi-akinbobola/job-queue)
+### 🎯 [Distributed Job Queue](https://github.com/faniyi-akinbobola/Distributed-Job-Processing-System)
 Background job processing with retry and failure handling  
 `NestJS` `Bull` `Redis` `PostgreSQL`
 
-### 🔐 [Payment Gateway Service](https://github.com/faniyi-akinbobola/payment-gateway)
-Multi-provider payment integration with webhook management  
-`NestJS` `Stripe` `Paystack` `PostgreSQL` `Webhooks`
+
 
 
 ## 📊 GitHub Stats
