@@ -58,45 +58,29 @@ I design and build **scalable backend systems**, **clean APIs**, and **productio
 
 ## 📌 Featured Projects
 
-### 🧩 [Microservices E-commerce Backend](https://github.com/faniyi-akinbobola/microservices-ecommerce)
-A distributed backend system composed of an **API Gateway**, **Authentication**, **Cart**, **Order**, **Product**, **Payment**, **Inventory**, and **Notification** services.
-
-**Key Features:**
-- 🔄 Service-to-service communication with **message queues**
-- 🛡️ **Idempotent operations** for payment and order processing
-- ⚡ **Redis caching** for product catalog and cart data
-- 🔧 **Circuit breakers** and **fault-tolerant patterns**
-- 🐳 **Dockerized microservices** with orchestration
-
-**Tech:** `NestJS` · `PostgreSQL` · `Redis` · `Docker` · `RabbitMQ`
-
----
+### 🔗 [Microservices E-commerce Backend](https://github.com/faniyi-akinbobola/microservices-ecommerce)
+Distributed system with 7+ microservices communicating via message queues  
+`NestJS` `PostgreSQL` `Redis` `Docker` `RabbitMQ` `Microservices`
 
 ### 💳 [Subscription & Billing Service](https://github.com/faniyi-akinbobola/subscription-billing)
-A **NestJS microservice** for managing subscription plans, user subscriptions, and automated billing workflows.
+Automated recurring billing with prorated plan changes  
+`NestJS` `TypeORM` `PostgreSQL` `Stripe` `Webhooks`
 
-**Key Features:**
-- 📅 Recurring billing with **automated invoicing**
-- 💰 Multiple subscription tiers and plan management
-- 🔄 Upgrade/downgrade flow with **prorated billing**
-- 🧼 Clean separation of **business logic** and **persistence layers**
+### 🚗 [CarSales API](https://github.com/faniyi-akinbobola/carsales-api)
+REST API for car dealerships with advanced filtering  
+`NestJS` `TypeScript` `PostgreSQL` `JWT` `TypeORM`
 
-**Tech:** `NestJS` · `TypeORM` · `PostgreSQL` · `Stripe Integration`
+### 📚 [Library Management System](https://github.com/faniyi-akinbobola/library-management)
+Book borrowing workflow with inventory tracking  
+`NestJS` `MongoDB` `Mongoose` `JWT`
 
----
+### 🎯 [Distributed Job Queue](https://github.com/faniyi-akinbobola/job-queue)
+Background job processing with retry and failure handling  
+`NestJS` `Bull` `Redis` `PostgreSQL`
 
-### [CarSales API](https://github.com/faniyi-akinbobola/carsales-api)
-A full-featured **NestJS REST API** for managing car listings, users, and dealership operations.
-
-**Key Features:**
-- 🔐 JWT-based authentication and authorization
-- 🚙 CRUD operations for car listings with advanced filtering
-- 👥 User roles and permissions (admin, dealer, customer)
-- 📊 Clean architecture with **repository pattern**
-
-**Tech:** `NestJS` · `TypeScript` · `PostgreSQL` · `TypeORM`
-
----
+### 🔐 [Payment Gateway Service](https://github.com/faniyi-akinbobola/payment-gateway)
+Multi-provider payment integration with webhook management  
+`NestJS` `Stripe` `Paystack` `PostgreSQL` `Webhooks`
 
 
 ## 📊 GitHub Stats
