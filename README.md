@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Faniyi Akinbobola
 
-**Backend Engineer | Building Scalable Systems & Clean APIs**
+**Backend & AI Systems Engineer | Scalable APIs · Distributed Systems · Intelligent Agents**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faniyiakinbobola)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faniyi-akinbobola)
@@ -16,13 +16,30 @@
 
 ## 🧠 About Me
 
-I design and build **scalable backend systems**, **clean APIs**, and **production-ready microservices** with a strong focus on **correctness**, **performance**, and **maintainability**.
+I build **production-grade backend systems** and **intelligent AI-powered applications** that are scalable, reliable, and designed for real-world use.
 
-- 💻 Backend engineer specializing in **NestJS**, **Node.js**, and **TypeScript**
-- 🧩 Expert in **RESTful API design**, **microservice architectures**, **API gateways**, and **modular backend systems**
-- 🧱 Proficient with **Redis**, **Docker**, and distributed system patterns: **caching**, **idempotency**, **rate limiting**, **circuit breakers**
-- 🧼 Passionate about solving complex logic problems and writing **clean, testable, maintainable code**
-- 📊 Background in **machine learning and data analysis** applied to real-world healthcare problems
+My work sits at the intersection of:
+- ⚙️ **Backend Engineering**
+- 🤖 **AI Systems (LLMs, RAG, Agents)**
+- 🧱 **Distributed System Design**
+
+### What I Do
+- Design and build **scalable APIs** and **microservices architectures**
+- Develop **AI agents and RAG pipelines** using modern LLM tooling
+- Engineer systems with **performance, fault tolerance, and observability** in mind
+- Apply **machine learning** to real-world problems (healthcare, analytics)
+
+---
+
+## ⚡ Core Expertise
+
+- **Backend:** NestJS · Node.js · TypeScript · Express
+- **AI Systems:** RAG · Agent Systems · Tooling · LLM Integration
+- **Architecture:** Microservices · API Gateway · Event-driven systems
+- **Data:** PostgreSQL · Redis · MongoDB
+- **Infra & DevOps:** Docker · CI/CD · System Design
+- **Distributed Systems Patterns:**  
+  `Caching` · `Idempotency` · `Rate Limiting` · `Retries` · `Circuit Breakers`
 
 ---
 
@@ -32,50 +49,77 @@ I design and build **scalable backend systems**, **clean APIs**, and **productio
 
 ### Languages & Frameworks
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### AI / LLM Stack
+`LangChain` · `LangGraph` · `RAG Pipelines` · `Vector Databases` · `Tool Calling` · `Agent Workflows`
 
 ### Databases & Caching
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### Architecture & Patterns
-`Microservices` · `API Gateway` · `REST APIs` · `Caching` · `Idempotency` · `Rate Limiting` · `Circuit Breakers` · `System Design`
 
 </div>
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-### 🔗 [Microservices E-commerce Backend](https://github.com/faniyi-akinbobola/E-commerce-microservices)
-Distributed system with 7+ microservices communicating via message queues  
-`NestJS` `PostgreSQL` `Redis` `Docker` `RabbitMQ` `Microservices`
+### 🧠 AI Stock Market Agent (Agentic RAG System)
+Multi-tool AI agent capable of retrieving, analyzing, and reasoning over financial data  
+**Key Features:**
+- Tool-augmented reasoning with **LangGraph**
+- Retrieval system with **RAG pipeline**
+- Modular agent workflow with dynamic tool usage  
+`LangGraph` · `LangChain` · `RAG` · `Agents` · `Python`
 
-### 💳 [Subscription & Billing Service](https://github.com/faniyi-akinbobola/Subscription-and-Billing-Service)
-Automated recurring billing with prorated plan changes  
-`NestJS` `TypeORM` `PostgreSQL` `Stripe` `Webhooks`
+---
 
-### 🚗 [CarSales API](https://github.com/faniyi-akinbobola/Car-Dealer-API)
-REST API for car dealerships with advanced filtering  
-`NestJS` `TypeScript` `PostgreSQL` `JWT` `TypeORM`
+### 🏢 Company Knowledge Base (RAG System)
+Intelligent internal knowledge system for querying company data and documents  
+**Highlights:**
+- Retrieval-Augmented Generation over structured & unstructured data
+- Context-aware responses with semantic search
+- Designed for scalability and real-world enterprise usage  
+`RAG` · `Vector Databases` · `LangChain` · `Embeddings` · `APIs`
 
-### 🎯 [Distributed Job Queue](https://github.com/faniyi-akinbobola/Distributed-Job-Processing-System)
-Background job processing with retry and failure handling  
-`NestJS` `Bull` `Redis` `PostgreSQL`
+---
 
+### 🔗 Microservices E-commerce Backend
+Distributed system with multiple services communicating via messaging  
+**Highlights:**
+- Event-driven architecture
+- Scalable service isolation
+- Fault-tolerant communication  
+`NestJS` · `PostgreSQL` · `Redis` · `RabbitMQ` · `Docker`
 
+---
 
+### 💳 Subscription & Billing Service
+Robust billing system with support for real-world edge cases  
+**Highlights:**
+- Proration logic for plan upgrades/downgrades
+- Webhook-driven event handling
+- Payment integration  
+`NestJS` · `PostgreSQL` · `Stripe`
+
+---
+
+### ⚙️ Distributed Job Processing System
+Asynchronous job system for background processing  
+**Highlights:**
+- Retry strategies and failure recovery
+- Queue-based processing
+- Scalable workers  
+`Bull` · `Redis` · `NestJS`
+
+---
 
 ## 📊 GitHub Stats
 
@@ -98,13 +142,12 @@ Background job processing with retry and failure handling
 
 ---
 
-## 🏆 GitHub Trophies
+## 🎯 What I'm Focused On
 
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=faniyi-akinbobola&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+- Building **production-ready AI systems (Agentic RAG)**
+- Designing **scalable backend architectures**
+- Exploring **LLM orchestration & tool ecosystems**
+- Shipping systems that are **robust, observable, and maintainable**
 
 ---
 
@@ -122,8 +165,8 @@ Background job processing with retry and failure handling
 
 <div align="center">
 
-### 💭 *"Code is like humor. When you have to explain it, it's bad."* — Cory House
+### 💭 *"Build systems that scale — not just code that works."*
 
-**⭐ If you find my projects interesting, feel free to star them!**
+⭐ *If you find my work interesting, feel free to star a repo.*
 
 </div>
